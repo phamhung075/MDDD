@@ -1,3 +1,5 @@
+# Manger MacDonals pour comprendre conception DDD
+
 Dans le paysage impitoyable des géants de la restauration mondiale, McDonald's se dresse tel un colosse aux arches dorées, non seulement comme une entreprise extraordinairement rentable, mais comme un modèle d'organisation que tout architecte logiciel devrait étudier avec attention.
 
 Regardez comment McDonald's opère sur le terrain. Chaque restaurant fonctionne tel un micro-service parfaitement autonome. La maison-mère peut déployer un nouveau restaurant dans un quartier prometteur ou fermer une franchise sous-performante sans perturber l'ensemble du réseau. Cette élasticité rappelle étrangement nos architectures cloud modernes, n'est-ce pas? Maximiser les ressources quand la demande explose, puis réduire l'infrastructure pendant les périodes creuses - l'essence même de l'optimisation des coûts que nous recherchons dans nos systèmes informatiques.
