@@ -143,4 +143,4 @@ domain/
 └── index.ts
 ```
 
-![CDomain](<Pasted image 20250305112323.png>)
+![CDomain](<https://github.com/phamhung075/MDDD/blob/main/CDomain.png>)

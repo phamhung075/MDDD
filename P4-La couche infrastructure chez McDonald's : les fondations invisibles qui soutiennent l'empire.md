@@ -141,4 +141,4 @@ infrastructure/
 │       └── SupplierSystemIntegration.ts
 └── index.ts
 ```
-![alt text](<Pasted image 20250305113144.png>)
+![alt text](<https://github.com/phamhung075/MDDD/blob/main/CInfrastructure.png>)
