@@ -99,4 +99,4 @@ interface/
 │   └── ErrorResponses.ts
 └── index.ts
 ```
-![alt text](<Pasted image 20250305111442.png>)
+![CInterface](https://github.com/user-attachments/assets/1bd2c235-2290-4dc6-bcbb-4cc098b057c2)

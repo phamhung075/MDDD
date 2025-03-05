@@ -47,4 +47,3 @@ L'infrastructure d'un McDonald's évolue constamment - nouveaux équipements de 
 C'est cette séparation des préoccupations qui permet à McDonald's de naviguer dans un océan de changements tout en maintenant le cap sur sa mission principale : servir rapidement une nourriture constante et abordable. De même, le DDD nous guide vers la création de systèmes où le cœur métier reste protégé des turbulences technologiques et organisationnelles.
 
 Alors que nous explorons chaque couche du DDD dans les prochaines sections, gardez à l'esprit cette image d'un restaurant McDonald's parfaitement orchestré, où chaque élément joue son rôle dans une symphonie commerciale qui continue de résonner à travers le monde depuis plus de sept décennies.
-![alt text](image.png)
